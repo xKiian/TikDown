@@ -2,11 +2,6 @@
   <b>Star ⭐ if you want more</b><br>
 </p>
 
-## Contact:
-
-[Telegram](https://t.me/xkian) <br>
-t.me/xkian
-
 ## Features
 ```js
   * Download TikTok videos
